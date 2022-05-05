@@ -5,7 +5,7 @@ The purpose is to help Beks to use neural networks with the tensor flow program 
 ##Results
 Merged Data Frame 
 ![screenshot](test3.png)
-for my neural network I had two hidden layers at a 60 neurons and 30. The activations output layer is "sigmoid" hiddent layers where classified as relu.
+for my neural network I had two hidden layers at a 60 neurons and 30. The activations output layer is "test2" hidden layers where classified as test1.
 
 ![screenshot](test4.png)
 
